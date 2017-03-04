@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ITYViewTool::Renderer.copyright 'Justin Joseph', 'All rights reserved.'
+```
 
 ## Development
 
